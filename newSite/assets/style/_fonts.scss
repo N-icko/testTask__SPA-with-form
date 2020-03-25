@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Cherry Swash';
+  src: url("../fonts/CherrySwash-Regular.ttf");
+}
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+}
+
+$font_cherry_swash: Cherry Swash;
+$font_open_sans: Lato, sans-serif;
