@@ -158,6 +158,7 @@ body {
             .carousel__slide-link {
               font-size: 1.5rem;
               color: $links-white-color;
+              line-height: 44px;
               font-weight: lighter;
               display: block;
               width: 235px;
@@ -261,14 +262,14 @@ body {
 
 .contact__wrapper {
   position: relative;
-  height: 500px;
+  height: 600px;
 
   .contact-maps__container {
-    height: 500px;
+    height: 600px;
 
     .contact-maps__iframe {
       width: 100%;
-      height: 500px;
+      height: 600px;
     }
   }
 
